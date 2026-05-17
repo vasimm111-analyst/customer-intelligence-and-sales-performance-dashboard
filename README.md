@@ -421,7 +421,7 @@ Customer-Behaviour-Analysis/
 ## Clone the Repository
 
 ```bash
-https://github.com/vasimm111-analyst/customer-intelligence-and-sales-performance-dashboard.git
+git clone https://github.com/vasimm111-analyst/customer-intelligence-and-sales-performance-dashboard.git
 ```
 
 ---
