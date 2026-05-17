@@ -424,11 +424,9 @@ Customer-Behaviour-Analysis/
 git clone https://github.com/vasimm111-analyst/customer-intelligence-and-sales-performance-dashboard.git
 ```
 
----
 
 # 📸 Dashboard Preview
 
-_Add your Power BI dashboard screenshot here_
 
 ```bash
 screenshots/dashboard_screenshot.png
