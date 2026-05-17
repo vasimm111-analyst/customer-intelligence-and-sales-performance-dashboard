@@ -421,7 +421,7 @@ Customer-Behaviour-Analysis/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/rahuldata/Customer-Behaviour-Analysis.git
+https://github.com/vasimm111-analyst/customer-intelligence-and-sales-performance-dashboard.git
 ```
 
 ---
