@@ -448,8 +448,8 @@ screenshots/dashboard_screenshot.png
 
 ## **Vasim Akram**
 
-- Email: [ vasimakram1110@gmail.com](mailto: vasimakram1110@gmail.com)
-- GitHub: [https://github.com/vasimm111-analyst](https://github.com/vasimm111-analyst)
+- Email: [ vasimakram1110@gmail.com](vasimakram1110@gmail.com)
+- GitHub: [https://github.com/vasimm111-analyst]
 - LinkedIn: [Vasim Akram](https://www.linkedin.com/in/vasim-akram-data-analyst/)
 ---
 
