@@ -447,9 +447,9 @@ screenshots/dashboard_screenshot.png
 # 👨‍💻 Author
 
 ## **Vasim Akram**
-    vasimakram1110@gmail.com
-🔗 LinkedIn: Add Your LinkedIn Profile  
-🔗 GitHub: Add Your GitHub Profile  
 
+- Email: [ vasimakram1110@gmail.com](mailto: vasimakram1110@gmail.com)
+- GitHub: [https://github.com/vasimm111-analyst](https://github.com/vasimm111-analyst)
+- LinkedIn: [Vasim Akram](https://www.linkedin.com/in/vasim-akram-data-analyst/)
 ---
 
